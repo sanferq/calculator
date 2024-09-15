@@ -39,6 +39,7 @@ body {
 
 .button {
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
     border: none;
     color: white;
     border-radius: 20px;
